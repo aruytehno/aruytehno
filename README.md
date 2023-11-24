@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Виртуальное окружение Python
+https://jeasy.ru/articles/wp7w17
+
+
+# Установка виртуальной среды
+$ pip install virtualenv
+
+
+Для создания виртуального окружения python применяем команду
+$ python3 -m venv env
+
+Активация виртуальной среды
+$ source env/bin/activate
+
+Команда/Описание
+mkvirtualenv env-name	Создаем новое окружение
+workon	Смотрим список окружений
+workon env-name	Меняем окружение
+deactivate	Выходим из окружения
+rmvirtualenv env-name	Удаляем окружение
+pip install --upgrade pip Обновляем зависимости
