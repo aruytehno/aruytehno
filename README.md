@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```shell
 # Виртуальное окружение Python
-https://jeasy.ru/articles/wp7w17
+ https://jeasy.ru/articles/wp7w17
 
 
 # Установка виртуальной среды
@@ -36,3 +37,4 @@ workon env-name	Меняем окружение
 deactivate	Выходим из окружения
 rmvirtualenv env-name	Удаляем окружение
 pip install --upgrade pip Обновляем зависимости
+```
