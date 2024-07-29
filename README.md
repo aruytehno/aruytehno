@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![codewars](https://www.codewars.com/users/Aruytehno/badges/large)](https://www.codewars.com/users/Aruytehno)
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,pycharm,notion,sublime,postman,bash,git,html,css,js,bootstrap,py,django,sqlite,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite)](https://skillicons.dev)
 
 <!--
 **aruytehno/aruytehno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
