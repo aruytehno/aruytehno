@@ -1,4 +1,4 @@
-Мой стек: Linux, Ubuntu, Bash, Regex, Git, Python, Django Framework, SQL, HTML, CSS, GIMP, Bootstrap
+Мой стек: Linux, Ubuntu, Bash, Regex, Git, Python, Django Framework, SQL, HTML, CSS, GIMP, Bootstrap  
 Сейчас изучаю: 
 Собираюсь изучить: Celery, Flask, FastAPI, Agile
   
