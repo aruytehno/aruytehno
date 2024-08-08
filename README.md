@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=aruytehno)  
              Мой стек: Linux Ubuntu, Bash, Regex, Git, Python, Django Framework, SQL, HTML, CSS, GIMP, Bootstrap  
-        Сейчас изучаю: 
+        Сейчас изучаю:  
     Собираюсь изучить: FastApi
     
 
