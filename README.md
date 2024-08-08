@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
              Мой стек: Linux Ubuntu, Bash, Regex, Git, Python, Django Framework, SQL, HTML, CSS, GIMP, Bootstrap  
         Сейчас изучаю: 
     Собираюсь изучить: FastApi
