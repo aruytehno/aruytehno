@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=aruytehno)  
              Мой стек: Python, Django Framework, SQL, HTML, CSS, Bootstrap   
-        Сейчас изучаю: Flask
+        Сейчас изучаю: Flask  
     Собираюсь изучить: FastApi, Cherry-pick, Gitflow, Django REST Framework  
     
 
